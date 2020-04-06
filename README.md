@@ -5,6 +5,8 @@ As a part of the curriculum, there is a 3-week Project Hackathon and Defense (PH
 
 The problem statement was to **predict the yield of crop, specifically 4 crops (named as ing_w, ing_x, ing_y and ing_z)** for the year 2017.
 
+The notebook contains data cleaning, extensive EDA, data visualization, model building and model optimization.
+
 The datasets consisted of: 
   1. description of about 1400 farms (farm_data)
   2. everyday's weather data of 2016 (train_weather)
